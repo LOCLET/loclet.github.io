@@ -9,7 +9,7 @@ name: LOCLET
 description: Entdecke Deine Stadt spielend.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/loclet/loclet.github.io/assets/site/loclet_icon.png
+avatar: https://raw.githubusercontent.com/loclet/loclet.github.io/master/assets/site/loclet_icon.png
 
 #
 # Flags below are optional
