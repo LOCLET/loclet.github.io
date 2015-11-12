@@ -1,17 +1,59 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="de" prefix="og: http://ogp.me/ns#">
+<head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    {% include meta.html %}
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 
-  <div class="entry">
-    {{ content }}
-  </div>
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/css/custom.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+          href="{{ site.baseurl }}/feed.xml"/>
+</head>
+<body>
 
-  <div class="date">
-    Geschrieben am {{ page.date | date: "%B %e, %Y" }}
-  </div>
+{% include nav.html %}
 
-  {% include disqus.html %}
-</article>
+{% assign author = site.authors[page.author] %}
+<section class="mt80">
+    <article class="container">
+        {% if page.cover %}
+        <div class="cover-crop">
+            <img class="cover" src="{{ site.baseurl }}{{ page.cover }}"/>
+        </div>
+            {% if author %}
+            <div class="post-author">
+                <p>von {{ author.display_name }}</p>
+                <img class="avatar" src="{{ site.baseUrl }}{{ author.avatar }}">
+            </div>
+            {% endif %}
+        {% endif %}
+        {% if page.credit %}
+        <div class="pull-right"><h6>{{ page.credit }}</h6></div>
+        {% endif %}
+        <div class="post-header">
+            <header>
+                <h1>{{ page.title }}</h1>
+
+                <p><i class="fa fa-calendar fa-fw"></i> {{ page.date | date: "%d.%m.%Y" }}&emsp;&emsp;
+                    {% include share.html %} </p>
+            </header>
+        </div>
+        <div>
+            {{ content }}
+        </div>
+        {% include disqus.html %}
+    </article>
+</section>
+
+{% include footer.html %}
+
+{% include scripts.html %}
+
+</body>
+</html>

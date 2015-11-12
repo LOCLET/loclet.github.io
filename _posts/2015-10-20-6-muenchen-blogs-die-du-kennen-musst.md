@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 6 München-Blogs, die Du kennen musst
+author: mara
+cover: /assets/content/bavarian_lion.jpg
+credit: Foto&#x003a werner22brigitte / pixabay
 ---
 
 Wir lieben Leute, die ihre Stadt erforschen und in Blogs darüber schreiben. Wessen Worte man in München nicht 
 verpassen sollte? Lest selbst…
 
-![]({{ site.baseurl }}/assets/content/bavarian_lion.jpg "Die besten Blogs der Hauptstadt")
-###### Foto: [werner22brigitte, CC0 Public Domain /  Pixabay](https://pixabay.com/de/mosaik-bildmaterial-geb%C3%A4ude-haus-333236/) 
-
-## [MUCBOOK.de](http://www.mucbook.de)
+### [MUCBOOK.de](http://www.mucbook.de)
 
 MUCBOOK füllt eine klaffende Lücke in der Stadt, denn es ist sogar mehr, als der Slogan “Dein München  - Deine 
 Blogger” verspricht. Einen Großteil dessen, was das MUCBOOK-Team schreibt, fotografiert, entdeckt, empfiehlt oder 
@@ -25,7 +25,7 @@ politisch-anspruchsvoll bis zur bunten Spielerei ist alles mit dabei!
 Trinken in München.*
 
 
-## [MUENCHENBLOGGER.de](http://www.muenchenblogger.de)
+### [MUENCHENBLOGGER.de](http://www.muenchenblogger.de)
 
 Münchenblogger ist die Grande Dame der hiesigen Blogs. Max Sterz und Lisa Sonnabend haben einen ganzheitlichen Ansatz
 . Ob Politik, Nachtleben, Kulturszene oder Beobachtungen aus dem Münchner Alltag - hier schnappt man Wesentliches aus
@@ -35,7 +35,7 @@ quer bis zum Tipp des Tages. Mit der integrierten Tweetleiste wird einem zudem e
 Stadtstimmen angeboten. Muenchenblogger ist beides -  Fernglas und Lupe für die Stadt. Alles mitbekommen = gutes Gefühl!
 
 
-## [URBANAUT.org](http://www.urbanut.org)
+### [URBANAUT.org](http://www.urbanaut.org)
 
 Die Urbanauten schaffen etwas, das sonst keiner schafft in München. Sie analysieren, debattieren UND verändern die 
 Stadtlandschaft. Sie beobachten München, sie reflektieren es kritisch - aber sie feiern es auch. Sie haben die 
@@ -50,7 +50,7 @@ dafür, dass München den Anschluss nicht verpasst - Danke!
 *Die Urbanauten beleuchten die Stadt aus vielen Blickwinkeln.*
 
 
-## [ISARBLOG.de](http://www.isarblog.de)
+### [ISARBLOG.de](http://www.isarblog.de)
 
 Der Isarblog bietet: Ein Zuhause. In der Tat ist es diese ganz und gar unaufgeregte, entspannte Art von 
 Stadtentdeckung, die den Blog von Monika und Gerhard so besonders macht. Die beiden machen kein effekthascherisches 
@@ -65,7 +65,7 @@ Gefühl haben muss, dieses temporäre Kunstexperiment irgendwie nicht so richtig
 berichten sie auf isarblog.de.*
 
 
-## [DAS-MUENCHNER-KINDL.de](http://das-muenchner-kindl.de)
+### [DAS-MUENCHNER-KINDL.de](http://das-muenchner-kindl.de)
 
 Das Muenchner Kindl ist wahrhaft ein Jungspund in der Münchner Szene. Den Blog gibt es erst seit Anfang 2014 - aber 
 er hat irre schnell laufen gelernt und sich in Rekordzeit etabliert. Nina Gscheider, Anita Hösl und Sarah Schappert 
@@ -79,7 +79,7 @@ auch ein Blog-untypisches Schmankerl anzubieten: Eine eigene iOS-App. Hut ab!
 *Beim Kindl gehen Tradition und Moderne Hand in Hand.*
 
 
-## [BIANCA’S BLOG](http://essengehenistaucheinhobby.de)
+### [BIANCA’S BLOG](http://essengehenistaucheinhobby.de)
 
 Eine gescheite Foodie-Seite darf im Best-Of nicht fehlen. Da gibt’s keinen Diskussionsbedarf! Essen gehen ist 
 heutzutage des (Groß)stadtmenschen liebste Variante des abendlichen Beisammenseins und wer das Ganze mit ordentlich 

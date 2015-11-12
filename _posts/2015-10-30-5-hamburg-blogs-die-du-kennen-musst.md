@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 5 Hamburg-Blogs, die Du kennen musst
+author: mara
+cover: /assets/content/hamburg_city.jpg
+credit: Foto&#x003a unsplash / pixabay
 ---
 
 Unsere gute Freundin und Original-Hanseatin Marlene erklärt uns heute mal, an welchen Blogs man in Hamburg nicht 
 vorbei kommt!
 
-![]({{ site.baseurl }}/assets/content/hamburg_city.jpg "Die besten Blogs der Hauptstadt")
-###### Foto: [Unsplash, CC0 Public Domain / Pixabay](https://pixabay.com/en/channel-water-hamburg-city-boat-768762/) 
-
-## [MitVergnügenHH](http://hamburg.mitvergnuegen.com/)
+### [MitVergnügenHH](http://hamburg.mitvergnuegen.com/)
 
 MitVergnügenHH schickt euch nach draußen, auf Entdeckungsreise in dieser wunderschönen Stadt. Hier erfahrt ihr, wo 
 ihr am besten tanzen gehen könnt, wo gute Musik läuft und was ihr euch unbedingt Schönes angucken müsst. Einmal im 
@@ -21,7 +21,7 @@ für richtig guten Kaffee in Hamburg“ oder „11 Orte, an denen du dich am Val
 ![]({{ site.baseurl }}/assets/content/mitvergnuegenhh.jpg)
 
 
-## [RON ORP](http://www.ronorp.net/hamburg)
+### [RON ORP](http://www.ronorp.net/hamburg)
 
 Ron Orp wurde in Zürich geboren und ist mittlerweile viel umher gereist. Auch in Hamburg ist der Ronnie angekommen, 
 mit einem eigenen Netzwerk. Und sein Ziel ist es, euer Stadtleben zu inspirieren. Ihr erhaltet täglich einen 
@@ -31,7 +31,7 @@ Jeder kann sich einen Account anlegen, Fotos hochladen, Beiträge kommentieren u
 
 ![]({{ site.baseurl }}/assets/content/ronorp.png)
 
-## [Elbmelanchnolie](http://www.elbmelancholie.de/)
+### [Elbmelanchnolie](http://www.elbmelancholie.de/)
 
 Elbmelancholie ist halb Blog und halb Magazin. Der erste Klick auf die Seite macht schon Spaß - Eine Fülle toller 
 Fotos schießt einem entgegen. Und hinter diesen Fotos verstecken sich dann passende Artikel rund ums geliebte Hamburg
@@ -44,7 +44,7 @@ ausgeht um sich zu amüsieren, der nennt das gerne auch „up'n Swutsch gehen“
 ![]({{ site.baseurl }}/assets/content/elbmelancholie.png)
 
 
-## [Hamburger Fotospots](http://www.hamburger-fotospots.de/index.html)
+### [Hamburger Fotospots](http://www.hamburger-fotospots.de/index.html)
 
 Manchmal braucht es gar nicht so viele Worte, um etwas Schönes zu beschreiben. Und deswegen läuft das bei den 
 Hamburger Fotospots auch visuell, als Online-Stadtführer für begeisterte Fotografen. Hier lässt es sich gemütlich in
@@ -57,7 +57,7 @@ fotografieren?“.
 ![]({{ site.baseurl }}/assets/content/hamburgerfotospots.png)
 
 
-## [Typisch Hamburch](http://typisch-hamburch.de/)
+### [Typisch Hamburch](http://typisch-hamburch.de/)
 
 Typisch Hamburg - Der Blog rund um die schönste Stadt der Welt, und nein, damit hat euch keiner zu viel versprochen.
 Hier wird all das für Hamburg Typische mal genauer unter die Lupe genommen. Und ihr dürft daran teilhaben. Typisch 

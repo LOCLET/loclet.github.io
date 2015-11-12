@@ -11,12 +11,27 @@ description: Entdecke Deine Stadt spielend.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/loclet/loclet.github.io/master/assets/site/loclet_icon.png
 
+# Configure authors here
+authors:
+  klaas:
+    name: Klaas Klasing
+    display_name: Klaas
+    avatar: /assets/img/avatars/klaas_128.jpg
+    email: klaas@loclet.com
+    twitter: klaasinator
+  mara:
+    name: Mara Maurer
+    display_name: Mara
+    avatar: /assets/img/avatars/mara_128.jpg
+    email: mara@loclet.com
+    twitter: company
+
 #
 # Flags below are optional
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
+username:
   dribbble:
   email:
   facebook: LOCLET
@@ -39,6 +54,11 @@ disqus: loclet
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
+# Enter your Facebook site name and app ID to include a page plugin etc.
+facebook:
+  app_id: 1467545976875896
+  page_name: LOCLET
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://www.loclet.com
@@ -55,7 +75,7 @@ baseurl: ""
 
 markdown: redcarpet
 highlighter: pygments
-permalink: /:year/:month/:title/
+permalink: /blog/:year/:month/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
@@ -72,6 +92,4 @@ gems:
 exclude:
     - Gemfile
     - Gemfile.lock
-    - LICENSE
-    - README.md
     - CNAME

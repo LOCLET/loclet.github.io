@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Herbst-Hochgefühl
+author: mara
+cover: /assets/content/ridkongress.jpg
 ---
 
 Vom Herbst erwartet man ja meist nicht so viel. Es sei denn, man ist verliebt, oder Kinogänger oder ein verliebter

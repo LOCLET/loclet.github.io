@@ -1,0 +1,47 @@
+<!-- Footer -->
+<section id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <h4>Das Spiel</h4>
+                {% if page.url == "/" %}
+                <a href="#features" class="active scrolly-middle">Die App</a>
+                {% else %}
+                <a href="{{ site.baseurl }}/#features">Die App</a>
+                {% endif %}
+                <a href="">Spielregeln</a>
+                <a href="">FAQ</a>
+                <a href="">Support</a>
+            </div>
+            <div class="col-sm-3">
+                <h4>Über Uns</h4>
+                <a href="">Blog</a>
+                <!--<a href="">Presse</a>-->
+                <a href="{{ site.baseurl }}/de/team/">Team</a>
+                <a href="">Jobs</a>
+            </div>
+            <div class="col-sm-3">
+                <h4>Folge Uns</h4>
+                {% if site.username.facebook %}
+                <a target="_blank" title="{{ site.name }} auf Facebook"
+                   href="https://www.facebook.com/{{ site.username.facebook }}">
+                    <i class="fa fa-facebook fa-fw"></i> Facebook</a>{% endif %}
+                {% if site.username.twitter %}
+                <a target="_blank" title="{{ site.name }} bei Twitter"
+                   href="https://twitter.com/{{ site.username.facebook }}">
+                    <i class="fa fa-twitter fa-fw"></i> Twitter</a>{% endif %}
+            </div>
+            <div class="col-sm-3 text-right">
+                <h4>Rechtliches</h4>
+                <a href="{{ site.baseurl }}/de/impressum/">Impressum</a>
+                <a href="{{ site.baseurl }}/de/datenschutz/">Datenschutz</a>
+                <a href="{{ site.baseurl }}/de/nutzungsbedingungen/">Nutzungsbedingungen</a>
+            </div>
+        </div>
+        <div class="row mt20">
+            <div class="col-sm-12 text-right">
+                <h6>&copy; 2015 LOCLET GmbH &amp; Co. KG. Made with <i class="fa fa-beer"></i> in Munich.</h6>
+            </div>
+        </div>
+    </div>
+</section>
