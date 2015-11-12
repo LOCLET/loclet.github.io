@@ -54,6 +54,11 @@ section h2 {
     margin-top: 80px;
 }
 
+.page img {
+    display: block;
+    margin: 0 auto;
+}
+
 /* Nav Bar */
 nav.navbar {
     z-index: 11111;
@@ -75,6 +80,8 @@ a.navbar-brand {
 }
 
 .navbar-default a.navbar-brand,
+.navbar-default a.navbar-brand:link,
+.navbar-default a.navbar-brand:active,
 .navbar-default a.navbar-brand:hover {
     color: transparent;
 }
