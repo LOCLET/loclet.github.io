@@ -17,14 +17,14 @@ authors:
     name: Klaas Klasing
     display_name: Klaas
     avatar: /assets/img/avatars/klaas_128.jpg
-    email: klaas@loclet.com
-    twitter: klaasinator
   mara:
     name: Mara Maurer
     display_name: Mara
     avatar: /assets/img/avatars/mara_128.jpg
-    email: mara@loclet.com
-    twitter: company
+  robert:
+    name: Robert Hein
+    display_name: Robert
+    avatar: /assets/img/avatars/
 
 #
 # Flags below are optional
