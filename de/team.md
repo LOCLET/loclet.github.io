@@ -17,13 +17,13 @@ freuen uns über 3.500 Rätsel in Deutschland und Österreich aus unserer wachse
 <div class="profile">
     <img src="{{ site.baseurl }}/assets/img/avatars/robert_128.jpg" class="avatar">
     <h3>Robert</h3>
-    <p>Gründer und CEO</p>
+    <p>Gründer &amp; CEO</p>
 </div>
 
 <div class="profile">
     <img src="{{ site.baseurl }}/assets/img/avatars/klaas_128.jpg" class="avatar">
     <h3>Klaas</h3>
-    <p>Gründer und CTO</p>
+    <p>Gründer &amp; CTO</p>
 </div>
 
 <div class="profile">
