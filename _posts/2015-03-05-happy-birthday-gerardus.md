@@ -5,7 +5,9 @@ author: klaas
 ---
 
 As you might have noticed by today’s [Google Doodle](http://www.google.com/doodles/gerardus-mercators-503rd-birthday),
-March 5th 2015 marks the 503rd birthday of Gerardus Mercator. Gerardus Who? Well, essentially Mr. Mercator was the 
+March 5th 2015 marks the 503rd birthday of Gerardus Mercator.
+
+Gerardus Who? Well, essentially Mr. Mercator was the 
 first person to figure out
 [how to properly put the earth’s spherical geometry on a 2D map](http://www.vox.com/2015/3/5/8151303/gerardus-mercator-maps),
 which could then be used for pastime activities like... navigating the world’s oceans, for instance.

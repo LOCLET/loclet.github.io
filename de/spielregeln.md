@@ -18,9 +18,10 @@ mittels physischer Präsenz mindestens ein Loclet in der Region spielt.
 
 1. Jedes Loclet hat einen Basiswert und kann durch Spielerbewertungen an Wert gewinnen oder verlieren. Der Basiswert 
 hängt von der Anzahl der möglichen Antworten und dem Typ des Loclets (global, lokal) ab. Bei gleicher Anzahl von 
-Antworten und ohne Bewertungen ist ein lokales Loclet 5 mal so viel Wert wie ein globales.
+Antworten und ohne Bewertungen ist ein lokales Loclet 5 mal so viel wert wie ein globales.
 
-1. Ein Spieler erhält für die richtige Lösung eines Loclets innerhalb der Zeitbegrenzung den Wert des Loclets.
+1. Ein Spieler erhält für die richtige Lösung eines Loclets innerhalb der Zeitbegrenzung den Wert des Loclets als 
+Punktgewinn.
 
 1. Nachdem ein Loclet gespielt wurde, kann der Spieler es positiv oder negativ bewerten.
 

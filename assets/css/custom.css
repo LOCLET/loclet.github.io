@@ -58,7 +58,7 @@ section h2 {
 
 .page img {
     display: block;
-    margin: 0 auto;
+    margin: 20px auto 0 auto;
 }
 
 /* Nav Bar */
@@ -483,6 +483,15 @@ article img + em {
     margin: 12px auto 0 auto;
     text-align: center;
     color: #666;
+}
+
+/* Team */
+.profile {
+    display: inline-block;
+    margin: 8px;
+    text-align: center;
+    width: 256px;
+    background: #f8f8f8;
 }
 
 /* Misc */

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gewinne dein Gewicht in Bier bei “Meine erste Uniparty 2015”!
+title: Gewinne Dein Gewicht in Bier bei “Meine erste Uniparty 2015”!
 author: mara
 cover: /assets/content/party_atmo.jpg
 credit: Foto&#x3a Jörg Brinkheger / pixelio.de

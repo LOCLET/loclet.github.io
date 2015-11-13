@@ -6,8 +6,9 @@ cover: /assets/content/munich_skyline.jpg
 credit: Foto&#x3a tpsdave / pixabay
 ---
 
-Wer die Münchner Altstadt eigentlich beherrscht, das ist nicht OB Reiter oder H&M, das ist Albert Dietrich. Albert 
-Dietrich wird von manchen gefürchtet – aber die meisten sind ihm wohl dankbar, ohne es je selbst zu wissen.
+Wer die Münchner Altstadt eigentlich beherrscht, das ist nicht OB Reiter oder H&M, das ist Albert Dietrich.
+
+Albert Dietrich wird von manchen gefürchtet – aber die meisten sind ihm wohl dankbar, ohne es je selbst zu wissen.
 
 ![]({{ site.baseurl }}/assets/content/playme_01.jpg)
 ###### Das erste Münchner Street Piano aus dem Jahr 2013, gestaltet von der Design-Koryphäe Mirko Borsche.
