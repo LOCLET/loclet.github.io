@@ -3,7 +3,7 @@ layout: post
 title: 5 Hamburg-Blogs, die Du kennen musst
 author: mara
 cover: /assets/content/hamburg_city.jpg
-credit: Foto&#x003a unsplash / pixabay
+credit: Foto&#x3a unsplash / pixabay
 ---
 
 Unsere gute Freundin und Original-Hanseatin Marlene erklärt uns heute mal, an welchen Blogs man in Hamburg nicht 

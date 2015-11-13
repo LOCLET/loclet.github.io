@@ -22,16 +22,18 @@
 {% assign author = site.authors[page.author] %}
 <section class="mt80">
     <article class="container">
-        {% if page.cover %}
         <div class="cover-crop">
+        {% if page.cover %}
             <img class="cover" src="{{ site.baseurl }}{{ page.cover }}"/>
+        {% else %}
+            <img class="cover" src="{{ site.baseurl }}/assets/content/typewriter.jpg"/>
+        {% endif %}
         </div>
-            {% if author %}
-            <div class="post-author">
-                <p>von {{ author.display_name }}</p>
-                <img class="avatar" src="{{ site.baseUrl }}{{ author.avatar }}">
-            </div>
-            {% endif %}
+        {% if author %}
+        <div class="post-author">
+            <p>von {{ author.display_name }}</p>
+            <img class="avatar" src="{{ site.baseUrl }}{{ author.avatar }}">
+        </div>
         {% endif %}
         {% if page.credit %}
         <div class="pull-right"><h6>{{ page.credit }}</h6></div>

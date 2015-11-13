@@ -3,7 +3,7 @@ layout: post
 title: Gewinne dein Gewicht in Bier bei “Meine erste Uniparty 2015”!
 author: mara
 cover: /assets/content/party_atmo.jpg
-credit: Foto&#x003a Jörg Brinkheger / pixelio.de
+credit: Foto&#x3a Jörg Brinkheger / pixelio.de
 ---
 
 Wir werden diesen Donnerstag bei der meup 2015 aufschlagen, der Party, mit welcher der AStA der TU München stets 

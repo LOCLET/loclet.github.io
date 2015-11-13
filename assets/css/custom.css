@@ -5,6 +5,7 @@ html, body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
     font-weight: 300;
+    background: #2a3034;
 }
 
 .bg-cover {
@@ -34,6 +35,7 @@ section {
     min-height: 220px;
     padding-top: 2em;
     padding-bottom: 2em;
+    background: #fff;
 }
 
 section h2 {
@@ -86,6 +88,10 @@ a.navbar-brand {
     color: transparent;
 }
 
+.navbar-collapse {
+    background: #fff;
+}
+
 a {
     color: #2e96de;
 }
@@ -102,6 +108,7 @@ a:hover, a.active:hover,
 
 /* Header */
 #header {
+    background: transparent;
     color: #fff;
     text-align: center;
     margin: 0 auto 0 auto;

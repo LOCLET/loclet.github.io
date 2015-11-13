@@ -3,7 +3,7 @@ layout: post
 title: 6 München-Blogs, die Du kennen musst
 author: mara
 cover: /assets/content/bavarian_lion.jpg
-credit: Foto&#x003a werner22brigitte / pixabay
+credit: Foto&#x3a werner22brigitte / pixabay
 ---
 
 Wir lieben Leute, die ihre Stadt erforschen und in Blogs darüber schreiben. Wessen Worte man in München nicht 

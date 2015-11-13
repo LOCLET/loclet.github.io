@@ -2,8 +2,6 @@
 layout: post
 title: In the press
 author: klaas
-cover: /assets/content/typewriter.jpg
-credit: Foto&#x003a unsplash / pixabay
 ---
 
 Ever wondered how LOCLET got started? We could tell you right now, but actually there was some nice coverage in the 

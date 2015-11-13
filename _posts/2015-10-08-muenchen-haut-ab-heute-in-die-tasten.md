@@ -3,7 +3,7 @@ layout: post
 title: München haut ab heute in die Tasten!
 author: mara
 cover: /assets/content/munich_skyline.jpg
-credit: Foto&#x003a tpsdave / pixabay
+credit: Foto&#x3a tpsdave / pixabay
 ---
 
 Wer die Münchner Altstadt eigentlich beherrscht, das ist nicht OB Reiter oder H&M, das ist Albert Dietrich. Albert 

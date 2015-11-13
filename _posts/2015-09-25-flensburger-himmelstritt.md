@@ -3,7 +3,7 @@ layout: post
 title: Flensburger Himmelstritt
 author: mara
 cover: /assets/content/shoefiti_01.jpg
-credit: Foto&#x003a Soenke Rahn / wikipedia.org
+credit: Foto&#x3a Soenke Rahn / wikipedia.org
 ---
 
 Wir lieben ja ortsspezifische Eigenheiten, Rituale und Innovationen! Überall, wo Menschen zusammenkommen, kann 

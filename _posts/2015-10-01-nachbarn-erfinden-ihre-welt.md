@@ -3,7 +3,7 @@ layout: post
 title: Nachbarn erfinden ihre Welt
 author: mara
 cover: /assets/content/gracia_festival_01.jpg
-credit: Foto&#x003a Photogra Fer / Flickr
+credit: Foto&#x3a Photogra Fer / Flickr
 ---
 
 Maria faltet die Hände über dem Kopf zusammen und wie sie so inbrünstig in Katalanisch vor sich hin murmelt, da weiß

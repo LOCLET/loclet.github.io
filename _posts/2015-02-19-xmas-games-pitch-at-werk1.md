@@ -6,7 +6,9 @@ cover: /assets/content/werk1_xmas_games_pitch_01.jpg
 ---
 
 Now that we have started our blog, it’s time to recap some of the LOCLET developments that took place at the end of 
-last year. One of the highlights definitely was the [Games Bavaria](http://www.games-bavaria.com/) XMas Pitching 
+last year.
+
+One of the highlights definitely was the [Games Bavaria](http://www.games-bavaria.com/) XMas Pitching 
 Event at [WERK1 Munich](http://www.werk1muenchen.de/). We were invited (rather spontaneously) to present the LOCLET 
 game concept along with four other teams pitching their ideas.
 
