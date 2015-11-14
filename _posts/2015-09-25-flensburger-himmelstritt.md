@@ -3,13 +3,14 @@ layout: post
 title: Flensburger Himmelstritt
 author: mara
 cover: /assets/content/shoefiti_01.jpg
-credit: Foto&#x3a Soenke Rahn / wikipedia.org
+credit: Foto&#x3a Soenke Rahn / wikimedia.org
 ---
 
 Wir lieben ja ortsspezifische Eigenheiten, Rituale und Innovationen! Überall, wo Menschen zusammenkommen, kann 
 Ungewöhnliches entstehen. 
 
-Ist das ein Vogelschwarm, der die Norderstraße da besetzt hält? Nein, zu statisch. Straßenschmuck? Nein…zu asymmetrisch.
+Ist das ein Vogelschwarm, der die Norderstraße da besetzt hält? Nein, zu statisch. Straßenschmuck? Nein… zu 
+asymmetrisch.
 
 Wer sich der Straße in Flensburg nähert, macht alsbald eine viel ungewöhnlichere Entdeckung: Das sind hunderte von 
 Schuhen, die da an ihren Schnürsenkeln von Drahtseilen baumeln. Einfach so, quer über der Straße, Seil für Seil.  
@@ -23,6 +24,7 @@ Die Frage “Ist das Kunst oder kann das weg” blieb rhetorisch bei einer Fallh
 sich bald ein Schuhpaar an das nächste. 
 
 ![]({{ site.baseurl }}/assets/content/shoefiti_02.jpg)
+###### Foto: katiebordner / wikimedia.org
 
 Flensburg mag Hochburg sein in Sachen Shoefiti - erfunden wurde es hier aber nicht. Über die Herkunft des Rituals 
 gibt es die wildesten Geschichten, von charmant bis traurig reicht die Palette. In Schottland soll es unter jungen 

@@ -24,6 +24,7 @@ weit hinter sich gelassen hat - das ändert nichts an dieser Tatsache. So ist da
 quasi schon ein Leben lang.
 
 ![]({{ site.baseurl }}/assets/content/gracia_festival_02.jpg)
+###### Foto: amaianos / wikimedia.org
 
 Das mag mit dem ganz speziellen Spirit  in Gracia zu tun haben: Bis heute schaffen es die Bewohner, sich im Moloch
 der Großstadt ihre eigene Identität und ihre Traditionen zu bewahren. Das Straßenfest ist bis heute ein Spektakel von
