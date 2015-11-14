@@ -254,7 +254,8 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 button:hover,
 .button:hover {
-    background: rgba(255, 255, 255, 0.2);
+    background: #2e96de;
+    background: rgba(46, 150, 222, 0.7);
     color: #fff !important;
     text-decoration: none;
 }
@@ -496,6 +497,15 @@ article img + em {
 
 /* Misc */
 span.codedirection {
-    unicode-bidi:bidi-override;
+    unicode-bidi: bidi-override;
     direction: rtl;
+}
+
+label.error {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    color: #e84c3d;
+    font-weight: 300;
+    font-size: 16px;
 }

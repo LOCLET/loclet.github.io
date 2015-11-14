@@ -52,7 +52,7 @@ username:
 disqus: loclet
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-48661205-1
 
 # Enter your Facebook site name and app ID to include a page plugin etc.
 facebook:

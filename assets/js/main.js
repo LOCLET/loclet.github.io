@@ -1,9 +1,3 @@
-/*
- Overflow by HTML5 UP
- html5up.net | @n33co
- Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
- */
-
 (function ($) {
     var settings = {
         // Full screen header?
@@ -86,44 +80,27 @@
         }
 
         // Parallax background.
-
         // Disable parallax on IE (smooth scrolling is jerky), and on mobile platforms (= better performance).
         if (skel.vars.browser == 'ie'
             || skel.vars.mobile)
             settings.parallax = false;
-
         if (settings.parallax) {
-
             var $dummy = $(), $bg;
-
-            $window
-                .on('scroll.overflow_parallax', function () {
-
-                    // Adjust background position.
-                    $bg.css('background-position', 'center ' + (-1 * (parseInt($window.scrollTop()) / settings.parallaxFactor)) + 'px');
-
-                })
-                .on('resize.overflow_parallax', function () {
-
+            $window.on('scroll.overflow_parallax', function () {
+                // Adjust background position.
+                $bg.css('background-position', 'center ' + (-1 * (parseInt($window.scrollTop()) / settings.parallaxFactor)) + 'px');
+            }).on('resize.overflow_parallax', function () {
                     // If we're in a situation where we need to temporarily disable parallax, do so.
-                    if (!skel.breakpoint('wide').active
-                        || skel.breakpoint('narrow').active) {
-
+                    if (!skel.breakpoint('wide').active || skel.breakpoint('narrow').active) {
                         $body.css('background-position', '');
                         $bg = $dummy;
-
                     }
-
                     // Otherwise, continue as normal.
-                    else
-                        $bg = $body;
-
+                    else $bg = $body;
                     // Trigger scroll handler.
                     $window.triggerHandler('scroll.overflow_parallax');
-
                 })
                 .trigger('resize.overflow_parallax');
-
         }
 
         // Poptrox.

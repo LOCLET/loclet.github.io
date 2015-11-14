@@ -14,6 +14,11 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
           href="{{ site.baseurl }}/feed.xml"/>
+    {% if page.css %}
+    {% for stylesheet in page.css %}
+    <link rel="stylesheet" href="/assets/css/{{ stylesheet }}" media="screen" type="text/css">
+    {% endfor %}
+    {% endif %}
 </head>
 <body>
 
@@ -29,5 +34,12 @@
 
 {% include scripts.html %}
 
+{% if page.js %}
+{% for script in page.js %}
+<script src='/assets/js/{{ script }}'></script>
+{% endfor %}
+{% endif %}
+
+{% include analytics.html %}
 </body>
 </html>
