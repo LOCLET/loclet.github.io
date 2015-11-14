@@ -45,11 +45,13 @@
             contentType: 'application/json',
             success: function (data, textStatus, jqXHR) {
                 console.log(JSON.stringify(data));
-                showMessage("Wir haben Dir eine E-Mail zum Zurücksetzen Deines Passworts gesendet. <b>Bitte überpüfe  auch Deinen Spam-Ordner.</b>");
+                showMessage("Wir haben Dir eine E-Mail zum Zurücksetzen Deines Passworts gesendet. <b>Bitte überpüfe" +
+                    "  auch Deinen Spam-Ordner.</b>", false);
             },
             error: function (jqXHR, textStatus, errorThrown) {
                 console.log(JSON.stringify(jqXHR));
-                showMessage("Beim Zugriff auf unseren Server gab es ein Problem. Sollte das bestehen bleiben, kontaktiere bitte support@loclet.com.", true);
+                showMessage("Beim Zugriff auf unseren Server gab es ein Problem. Sollte das bestehen bleiben," +
+                    " kontaktiere bitte support@loclet.com.", true);
             }
         });
     }
