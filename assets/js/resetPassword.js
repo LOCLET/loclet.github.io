@@ -4,8 +4,7 @@
         var sPageURL = decodeURIComponent(window.location.search.substring(1));
         var sUrlVariables = sPageURL.split('&');
         var sParameterName;
-        var i;
-        for (i = 0; i < sUrlVariables.length; i++) {
+        for (var i = 0; i < sUrlVariables.length; i++) {
             sParameterName = sUrlVariables[i].split('=');
             if (sParameterName[0] === sParam) {
                 return sParameterName[1] === undefined ? true : sParameterName[1];
@@ -38,10 +37,7 @@
         var url = "https://loclet-api-prod.herokuapp.com/users/" + emailEncode;
         if (env && env == 'dev')
             url = "https://loclet-api-dev.herokuapp.com/users/" + emailEncode;
-        console.log('URL: ' + url);
-
         var data = JSON.stringify({password: null});
-
         $.ajax({
             method: 'PUT',
             url: url,
