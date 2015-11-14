@@ -509,3 +509,11 @@ label.error {
     font-weight: 300;
     font-size: 16px;
 }
+
+.input-group {
+    margin-bottom: 12px;
+}
+
+#lg-fbLogin {
+    margin: 0;
+}

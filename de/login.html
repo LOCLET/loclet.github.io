@@ -1,0 +1,37 @@
+---
+layout: page
+title: Anmelden
+permalink: /login.html
+js:
+- jquery.form.min.js
+- login.js
+---
+
+<div class="col-sm-6 col-sm-offset-3" id="login">
+    <h2>Anmelden</h2>
+
+    <p>Melde Dich mit Deinem Nutzernamen und Deinem Passwort an.</p>
+
+    <form id="login-form" class="clearfix">
+        <div align="center" class="input-group" style="margin-bottom: 10px">
+            <span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
+            <input size="15" class="form-control input-field"
+                   style="border: 1px solid #ccc;  text-transform: uppercase;" type="text" id="lg-username"
+                   placeholder="Nutzername">
+        </div>
+        <div align="center" class="input-group">
+            <span class="input-group-addon"><i class="fa fa-key fa-fw"></i></span>
+            <input size="15" class="form-control input-field" style="border: 1px solid #ccc;" type="password"
+                   id="lg-password" placeholder="Passwort">
+        </div>
+        <input type="submit" value="Anmelden" name="lg-submit-btn" id="lg-submit" class="submit"><br>
+        <label style="margin-top: 10px" id="lg-messageCredentials"></label>
+    </form>
+
+    <p>Oder melde Dich mit Facebook an:</p>
+    <img src="{{ site.baseurl }}/assets/img/loginwithfacebook.jpg" width="250px"
+         alt="Mit Facebook anmelden" id="lg-fbLogin">
+    <label style="margin-top: 10px" id="lg-messageFb"></label>
+    <p>Noch keinen Nutzeraccount? <a href="{{ site.baseurl }}/">Lade Dir die LOCLET-App</a></p>
+    <p><a href="{{ site.baseurl }}/resetPassword.html">Kennwort vergessen?</a></p>
+</div>

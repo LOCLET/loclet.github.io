@@ -12,7 +12,7 @@
             <a class="navbar-brand" href="{{ site.baseurl }}/">LOCLET</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav navbar-right" id="menu">
                 {% if page.url == "/index.html" %}
                 <li><a href="#features" class="active scrolly-middle">Die App</a></li>
                 {% else %}
@@ -23,7 +23,6 @@
                 {% else %}
                 <li><a href="{{ site.baseurl }}/blog/">Blog</a></li>
                 {% endif %}
-                <li><a href="">Anmelden</a></li>
             </ul>
         </div>
     </div>
