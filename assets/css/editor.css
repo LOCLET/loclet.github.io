@@ -1,0 +1,24 @@
+/* Editor */
+.tooltip-inner{
+    text-align: left;
+    max-width: 400px;
+    font-size: 16px;
+}
+
+.panel-title {
+    font-size: 20px;
+}
+
+
+.panel-title>a{
+    text-decoration: none;
+}
+
+.panel-title>a:hover {
+    text-decoration: none;
+    color: #00BD9C
+}
+
+#app input[type="button"] {
+    border-radius: 0;
+}

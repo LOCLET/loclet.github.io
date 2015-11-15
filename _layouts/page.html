@@ -36,7 +36,11 @@
 
 {% if page.js %}
 {% for script in page.js %}
-<script src='/assets/js/{{ script }}'></script>
+{% if script contains "http" %}
+<script src="{{ script }}"></script>
+{% else %}
+<script src="/assets/js/{{ script }}"></script>
+{% endif %}
 {% endfor %}
 {% endif %}
 

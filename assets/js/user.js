@@ -82,11 +82,11 @@
         var avatar = cdn + user.avatarPath;
 
         $('#usr-information').append("<img height='256' width='256'src='" + avatar + "'>");
-        $('#usr-information').append('<h2>' + user.name + '</h2>');
+        $('#usr-information').append('<h3>' + user.name + '</h3>');
 
         //Check if user is eligible to editor
         if (userCanEdit(loginUser)) {
-            $('#us-editor').html('<a style="margin-top: 20px" href="http://content.loclet.com">Meine Loclets</a>');
+            $('#us-editor').html('<a style="margin-top: 20px" href="http://www.loclet.com/editor/">Meine Loclets</a>');
         }
     });
 
