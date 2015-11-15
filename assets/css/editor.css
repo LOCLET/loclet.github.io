@@ -21,4 +21,9 @@
 
 #app input[type="button"] {
     border-radius: 0;
+    padding: 2px 2px 2px 2px;;
+}
+
+#app .btn {
+    border-radius: 0;
 }

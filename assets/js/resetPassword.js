@@ -167,7 +167,11 @@
             }
 
             if (!error) {
-                $("#rp-headline").text("Gib nun ein neues Passwort für Dein LOCLET-Konto ein.")
+                if(decoded.userName){
+                    $("#rp-headline").text("Hallo " + decoded.userName + ". Gib nun ein neues Passwort für Dein LOCLET-Konto ein.")
+                } else {
+                    $("#rp-headline").text("Gib nun ein neues Passwort für Dein LOCLET-Konto ein.")
+                }
                 $("#rp-email-div").hide();
                 $("#rp-password-div").show();
                 $("#rp-password-repeated-div").show();
