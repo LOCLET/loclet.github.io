@@ -164,7 +164,7 @@ $(document).ready(function() {
         var env = getUrlParameter('env');
         var domain = '.loclet.com';
         if(env && env == 'local'){
-            domain = 'localhost';
+            domain = '';
         }
 
         Cookies.set('loginUser', cookieUser, { domain: domain });

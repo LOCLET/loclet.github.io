@@ -86,14 +86,14 @@
 
         //Check if user is eligible to editor
         if (userCanEdit(loginUser)) {
-            $('#us-editor').html('<a style="margin-top: 20px" href="http://www.loclet.com/editor/">Meine Loclets</a>');
+            $('#us-editor').html('<a style="margin-top: 20px" href="./editor/' + window.location.search +'">Meine Loclets</a>');
         }
     });
 
     var env = getUrlParameter('env');
     var domain = '.loclet.com';
     if (env && env == 'local') {
-        domain = 'localhost';
+        domain = '';
     }
     $('#usr-logout').on('click', function () {
         Cookies.remove('loginUser', {domain: domain});

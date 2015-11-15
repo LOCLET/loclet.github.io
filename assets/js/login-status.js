@@ -36,10 +36,10 @@
         if (env && (env == 'local' || env == 'dev')) {
             userName = userName + ' (dev)';
         }
-        $('#menu').append('<li><a href="http://www.loclet.com/user.html' + window.location.search +
+        $('#menu').append('<li><a href="./user.html' + window.location.search +
             '" title="Dein Nutzeraccount">' + userName + '</a></li>');
     } else {
-        $('#menu').append('<li><a href="http://www.loclet.com/login.html' + window.location.search +
+        $('#menu').append('<li><a href=".//login.html' + window.location.search +
             '" title="Anmelden">Anmelden</a></li>');
     }
 
