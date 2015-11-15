@@ -45,6 +45,7 @@
             contentType: 'application/json',
             success: function (data, textStatus, jqXHR) {
                 console.log(JSON.stringify(data));
+                $("#rp-submit").hide();
                 showMessage("Wir haben Dir eine E-Mail zum Zurücksetzen Deines Passworts gesendet. <b>Bitte überpüfe" +
                     "  auch Deinen Spam-Ordner.</b>", false);
             },
@@ -115,6 +116,7 @@
             data: putData,
             contentType: 'application/json',
             success: function (data, textStatus, jqXHR) {
+                $("#rp-submit").hide();
                 showMessage("Dein neues Passwort wurde übernommen.");
             },
             error: function (jqXHR, textStatus, errorThrown) {
