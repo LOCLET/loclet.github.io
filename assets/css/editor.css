@@ -19,13 +19,15 @@
     color: #00BD9C
 }
 
-#app h4 {
-    font-weight: 300;
-}
 
 #app label {
     font-weight: 500;
 }
+
+#app h4 {
+    font-weight: 300;
+}
+
 
 #app input[type="button"] {
     border-radius: 0;
