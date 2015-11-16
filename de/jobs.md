@@ -31,4 +31,4 @@ Erfahrung mitbringst, bieten wir Dir das ideale Umfeld.
 **Marketing**
 
 * [Marketing (m/w) - Praktikum (1-3 Monate)]
-({{ site.baseurl }}/assets/content/LOCLET_WebApp_Praktikum_Muenchen_de.pdf)
+({{ site.baseurl }}/assets/content/LOCLET_Marketing_Praktikum_Muenchen_de.pdf)
