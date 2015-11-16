@@ -9,8 +9,7 @@ name: LOCLET
 tagline: Entdecke Deine Stadt spielend.
 
 # Description
-description: Mit der kostenlosen LOCLET App kannst Du an jeder Ecke Deiner Stadt spannende Rätsel entdecken, spielen
-und selbst platzieren.
+description: Mit der kostenlosen LOCLET App kannst Du an jeder Ecke Deiner Stadt spannende Rätsel entdecken, spielen und selbst platzieren.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/loclet/loclet.github.io/master/assets/site/loclet_icon.png
