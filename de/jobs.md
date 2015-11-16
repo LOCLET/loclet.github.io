@@ -26,7 +26,7 @@ Erfahrung mitbringst, bieten wir Dir das ideale Umfeld.
 **Entwicklung**
 
 * [Web-App Entwicklung (m/w) - Praktikum (3-6 Monate)]
-({{ site.baseurl }}/assets/content/LOCLET_Marketing_Praktikum_Muenchen_de.pdf)
+({{ site.baseurl }}/assets/content/LOCLET_WebApp_Praktikum_Muenchen_de.pdf)
 
 **Marketing**
 
