@@ -6,7 +6,7 @@ author: mara
 
 Worauf kommt es an? Viel zu wissen, rundherum, oder Experte zu sein in einem ganz speziellen Gebiet? 
 
-Breite oder Tiefe? Generalist und Spezialst, wir finden beide gut! Geistige Beweglichkeit einerseits und auf der 
+Breite oder Tiefe? Generalist und Spezialist, wir finden beide gut! Geistige Beweglichkeit einerseits und auf der 
 anderen Seite der Ansporn, ein Wissensgebiet ganz durchdringen zu wollen, beides imponiert und beides wird umso 
 wertvoller, wenn die jeweils andere Wissensqualität auch irgendwo in uns wohnt. Zum Glück sind wir Menschen 
 eigentlich automatisch so strukturiert. Wir kennen uns in einigen wenigen Gebieten gut aus und in vielen anderen eben
@@ -18,7 +18,7 @@ nur ein bisschen.
 Bei LOCLET werden wir diesem Umstand durch unser Spieler-Autoren-Prinzip gerecht: Jeder, der Quizfragen spielt, kann
 auch selbst welche erstellen. So frischt man nicht nur sein "Querfeldein-Wissen" auf, man kann auch seinem eigenen 
 Lieblingsthema huldigen und es mit anderen teilen.  Abgesehen von der Prämisse des Ortsbezugs einer Frage gibt es 
-dabei keinerlei kategoriale Einschränkungen. Wer ein Faible für Jugendstil-Architektur hat, der fröhnt seiner 
+dabei keinerlei kategoriale Einschränkungen. Wer ein Faible für Jugendstil-Architektur hat, der frönt seiner 
 Leidenschaft durch Quizfragen zu Jugendstil-Perlen in Wien, München und anderswo - wer sich gerne mit elektronischer
 Musik beschäftigt, der erstellt Rätsel zu Orten, die Schauplatz elektronischer Sternstunden waren oder es aktuell 
 sind. Und schließlich, wer sagt: "Emmendingen is my one and only!", der bastelt Quizfragen rund um Emmendinger 
@@ -34,7 +34,7 @@ LOCLET-Homepage klickt man einfach rechts oben auf "Anmelden" und loggt sich mit
 
 ![]({{ site.baseurl }}/assets/content/loclet_editor_01.png)
 
-Ein weiterer Klick auf "Meine Loclets" genügt und man befindet sich im Herzstück des Editors: Alle selbsterstellen 
+Ein weiterer Klick auf "Meine Loclets" genügt und man befindet sich im Herzstück des Editors: Alle selbsterstellten 
 Loclets sind hier aufgelistet und können überarbeitet werden. Wenn eine Quizfrage ausgewählt wird, erscheint sie als
 großes Hexagon in der Karte. Mit einem Klick auf "Erstellen" kann man auch ganz einfach neue globale Loclets anlegen.
 Ein weiteres Plus: Alle selbst erstellten Quizfragen sind in einer Seitenleiste nach Spielregionen sortiert. So sieht
@@ -51,7 +51,7 @@ der Frage, der andere beim Lösen derselben.
 ![]({{ site.baseurl }}/assets/content/loclet_editor_03.png)
 
 Mit dem Content-Editor wollen wir eine zweite Ebene in das Spiel bringen: Wie eine kleine Loclet-Bibliothek kann der
-Spieler hier seinen eigenen Wissensschatz verwalten und stetig weiter ausbauen. Pausenlos stößen wir beim 
+Spieler hier seinen eigenen Wissensschatz verwalten und stetig weiter ausbauen. Pausenlos stoßen wir beim 
 browserbasierten Surfen und Arbeiten auf interessante Fakten und Trivia - warum nicht einfach gleich eine Quizfrage 
 aus dem Neuerlernten machen? So vergisst man es nicht und lässt auch andere an seinem Wissen teilhaben. Dass jede 
 Quizfrage wieder zusätzlich Spielpunkte in den Account spült, müssen wir nicht extra erwähnen, oder? ;)
