@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /promotions/2015/12/heidifoto-muenchen
+permalink: /promotions/2015/12/heidifoto-muenchen/
 ---
 
 ## Rabatt auf Fotoshooting [TEST]
