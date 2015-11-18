@@ -2,6 +2,7 @@
 layout: post
 title: Der Content-Editor&#x3a Unser Tool für alle Loclet-Autoren
 author: mara
+cover: /assets/content/loclet_editor_cover.png
 ---
 
 Worauf kommt es an? Viel zu wissen, rundherum, oder Experte zu sein in einem ganz speziellen Gebiet? 
