@@ -57,7 +57,7 @@
         //Check for pen
         if (user.hasOwnProperty('inventory')) {
             for (var i = 0; i < user.inventory.length; i++) {
-                if (user.inventory[i].hasOwnProperty('id') && user.invetory[i].id === 'pen') {
+                if (user.inventory[i].hasOwnProperty('id') && user.inventory[i].id === 'pen') {
                     return true;
                 }
             }
