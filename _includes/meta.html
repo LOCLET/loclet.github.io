@@ -9,7 +9,11 @@
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
     {% endif %}
+    {% if page.cover %}
+    <meta name="og:image" content="{{ site.baseurl }}{{ page.cover }}" />
+    {% else %}
     <meta name="og:image" content="{{ site.baseurl }}/assets/img/2015-11_loclet_title.jpg" />
+    {% endif %}
     <meta name="author" content="{{ site.name }}" />
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
