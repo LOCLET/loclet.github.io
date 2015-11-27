@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Berlin Seiten, die Du kennen musst
+title: 5 Berlin-Seiten, die Du kennen musst
 author: mara
 cover: /assets/content/berlin_blogs_00.jpg
 ---
