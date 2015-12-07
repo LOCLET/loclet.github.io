@@ -410,6 +410,17 @@ button.style3:hover,
     color: #666;
 }
 
+/* FAQ */
+#faq h3 {
+    cursor: pointer;
+}
+
+#faq blockquote {
+    color: #333;
+    border: none;
+    padding-left: 20px;
+}
+
 /* Blog */
 .cover {
     width: 100%;
