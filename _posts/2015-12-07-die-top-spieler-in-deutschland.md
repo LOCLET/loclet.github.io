@@ -5,7 +5,7 @@ author: mara
 cover: /assets/content/top_spieler_00.jpg
 ---
 
-Heute werfen wir einen Blick auf die aktuellen Kämpfe an der LOCLET-Tabellenspitze ;-).
+Heute werfen wir einen Blick auf die aktuellen Kämpfe an der LOCLET-Tabellenspitze.
 
 
 Nur weil die Taube für Frieden und Unschuld steht, heißt das noch lange nicht, dass sie den fairen Wettbewerb scheut!
@@ -13,8 +13,9 @@ Für diese Erkenntnis muss man nicht unbedingt auf den Markusplatz in Venedig  -
 Blick in die LOCLET Leaderboards! DARKGALAMB (also die dunkle Taube) hat das Feld von hinten aufgerollt und sich den
 letzten Wochen in den verschiedenen Rankings an die Spitze gesetzt. So weit  nach vorne schafft man es nur, wenn man
 sich auch als Autor betätigt und fleißig Loclets erstellt. Hier liefert DARKGALAMB - das muss man einfach mal lobend
-hervorheben - nicht nur Masse, sondern auch Klasse (erinnert euch an unsere Empfehlung "Wahrzeichen" am
-Brandenburger Tor). Genauso hält es auch ROTERRADLER. Die beiden liefern sich derzeit in allen Bundesländern ein
+hervorheben - nicht nur Masse, sondern auch Klasse (erinnert Euch an
+[unsere Empfehlung "Wahrzeichen"](https://www.facebook.com/LOCLET/photos/a.610026932395503.1073741828.495182980546566/1000222583375934/?type=3) 
+am Brandenburger Tor). Genauso hält es auch ROTERRADLER. Die beiden liefern sich derzeit in allen Bundesländern ein
 heißes Duell um die Top-Platzierung.
 
 ![](/assets/content/top_spieler_01.png)
