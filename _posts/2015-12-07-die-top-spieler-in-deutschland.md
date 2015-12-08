@@ -33,8 +33,8 @@ Im Dunstkreis dieser neuen Stars am LOCLET-Himmel tummeln sich alte Bekannte: SA
 KLEINSCHMIDT bewegen sich stets im Windschatten der zwei Abräumer. Diese Kandidaten haben durchaus die Chance,
 DARKGALAMB oder ROTERRADLER in dem einen oder anderen Bundesland (kurzfristig?) zu entthronen.  Eine intensive
 Spielsession könnte sich hier auszahlen.  In Bayern haben auch CROWLEY und MATTHIASRADLINGER gute Chancen in der
-Aufholjagd, beide haben den Vorteil lokaler Loclets erkannt: Sie bringen dem Autor fünfmal mehr Punkte als ein
-lokales Loclet.
+Aufholjagd, beide haben den Vorteil lokaler Loclets erkannt: Sie bringen dem Autor fünfmal so viele Punkte wie ein
+globales Loclet.
 
 ![](/assets/content/top_spieler_02.png)
 *Hamburg, eine kleine Insel in LOCLET-Land! DARKGALAMB und ROTERRADLER haben sich hier noch nicht durchsetzen können...*
