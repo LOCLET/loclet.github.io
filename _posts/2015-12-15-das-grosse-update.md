@@ -32,7 +32,7 @@ Karte antippen oder alternativ die Infos nach links/rechts wischen, um zum näch
 ![](/assets/content/big_update_03.png)
 *Auch die Loclet- und Regionsdetails haben ein Facelift erhalten.*
 
-Ein Tipp auf den Namen der aktuellen Region (der nun nach oben gewandert ist) lieft übrigens eine praktische Liste 
+Ein Tipp auf den Namen der aktuellen Region (der nun nach oben gewandert ist) liefert übrigens eine praktische Liste 
 zum Auswählen der Loclets in der Region, sortiert nach nicht gespielten (globalen und lokalen) und bereits gespielten 
 Loclets. Zudem haben wir die Regionsauswahl vereinfacht.
 
