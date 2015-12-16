@@ -154,6 +154,29 @@ layout: main
             </div>
         </div>
         <div class="row">
+            {% for post in site.posts limit:3 %}
+            <a href="{{ site.baseurl }}{{ post.url }}">
+                <div class="col-sm-4 post-preview">
+                    <h2>{{ post.title }}</h2>
+                    <div class="date red">
+                        <p class="day">{{ post.date | date: "%-d" }}</p>
+                        <p class="month">{{ post.date | date: "%b" }}</p>
+                    </div>
+                    <div class="crop">
+                        {%if post.cover %}
+                        <img src="{{ site.baseurl }}{{ post.cover }}" height="80"/>
+                        {% else %}
+                        <img src="{{ site.baseurl }}/assets/content/typewriter.jpg"/>
+                        {% endif %}
+                    </div>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+        <div class="row text-right to-blog">
+            <p><a href="{{ site.baseurl }}/blog/">&raquo; Alle Blog-Artikel</a></p><hr><br>
+        </div>
+        <div class="row">
             <div class="col-sm-6">
                 <div class="fb-page" data-href="https://www.facebook.com/LOCLET" data-width="500" data-height="600"
                      data-small-header="false" data-adapt-container-width="true" data-hide-cover="true"

@@ -56,6 +56,18 @@ section h2 {
     margin-top: 80px;
 }
 
+.mb20 {
+    margin-bottom: 20px;
+}
+
+.mb40 {
+    margin-bottom: 40px;
+}
+
+.mb60 {
+    margin-bottom: 60px;
+}
+
 .page img {
     display: block;
     margin: 20px auto 0 auto;
@@ -387,6 +399,75 @@ button.style3:hover,
     background: #fff;
 }
 
+.post-preview {
+    margin-bottom: 20px;
+}
+
+.post-preview .crop {
+    display: block;
+    width: 200px;
+    height: 120px;
+    overflow: hidden;
+}
+
+.post-preview img {
+    width: 100%;
+    height: auto;
+    float: left;
+    clear: right;
+}
+
+.post-preview h2 {
+    display: block;
+    width: 100%;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0 0 6px 0;
+    padding-bottom: 8px;
+}
+
+.post-preview .date {
+    float: left;
+}
+
+.red {
+    background: #f2f2f2;
+    color: #bf382b;
+}
+
+.box-red {
+    border-right: 1px solid #ccc;
+    color: #bf382b;
+}
+
+.date p {
+    display: block;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0 10px 0 10px;
+}
+
+.date p.day {
+    padding-top: 5px;
+}
+
+.date p.month {
+    padding-bottom: 8px;
+}
+
+.date-fw {
+    width: 100px;
+    margin-right: 16px;
+}
+
+.to-blog p {
+    margin-right: 30px;
+}
+
 /* Footer */
 #footer {
     background: #333a3f url('../img/bg_shadow_bottom.png') top repeat-x;
@@ -422,6 +503,10 @@ button.style3:hover,
 }
 
 /* Blog */
+.post h1 {
+    margin-bottom: 4px;
+}
+
 .cover {
     width: 100%;
     height: auto;
