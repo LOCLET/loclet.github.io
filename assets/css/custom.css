@@ -431,7 +431,7 @@ button.style3:hover,
 }
 
 .red {
-    background: #f2f2f2;
+    border-top: 1px solid #ccc;
     color: #bf382b;
 }
 
