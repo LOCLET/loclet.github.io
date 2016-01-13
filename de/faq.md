@@ -50,8 +50,8 @@ Los geht's!
 
 ### Wo kann ich LOCLET spielen?
 
-> In Deutschland und Österreich findest Du über 3.800 Rätsel. Spielen kannst Du auf der Couch oder vor Ort, je nach 
-Loclet.
+> In Deutschland und Österreich findest Du über {{ site.num_loclets }} Rätsel. Spielen kannst Du auf der Couch oder 
+vor Ort, je nach Loclet.
 
 ### Was sind Regionen?
 

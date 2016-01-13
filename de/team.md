@@ -9,7 +9,8 @@ permalink: /de/team/
 Wir sind ein junges StartUp aus München, das die Welt da draußen ein bisschen unterhaltsamer machen möchte. Zu jedem 
 Ort gibt es spannende Geschichten - LOCLET hilft Dir, sie spielerisch zu entdecken. Gestartet sind wir Ende 2014 mit 
 einer Idee. Mittlerweile sind wir ein achtköpfiges Team, haben unsere App für iPhone und Android veröffentlicht und 
-freuen uns über 3.800 Rätsel in Deutschland und Österreich aus unserer wachsenden Community von Spielern. 
+freuen uns über {{ site.num_loclets }} Rätsel in Deutschland und Österreich aus unserer wachsenden Community von 
+Spielern.
 
 ## Team
 
