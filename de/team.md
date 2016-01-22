@@ -15,28 +15,23 @@ Spielern.
 ## Team
 
 <div class="text-center">
-<div class="profile">
-    <img src="{{ site.baseurl }}/assets/img/avatars/robert_128.jpg" class="avatar">
-    <h3>Robert</h3>
-    <p>Gründer &amp; CEO</p>
-</div>
 
 <div class="profile">
     <img src="{{ site.baseurl }}/assets/img/avatars/klaas_128.jpg" class="avatar">
     <h3>Klaas</h3>
-    <p>Gründer &amp; CTO</p>
+    <p>Gründer &amp; CEO</p>
+</div>
+
+<div class="profile">
+    <img src="{{ site.baseurl }}/assets/img/avatars/robert_128.jpg" class="avatar">
+    <h3>Robert</h3>
+    <p>Gründer &amp; Geschäftsführer</p>
 </div>
 
 <div class="profile">
     <img src="{{ site.baseurl }}/assets/img/avatars/markus_128.jpg" class="avatar">
     <h3>Markus</h3>
     <p>Backend</p>
-</div>
-
-<div class="profile">
-    <img src="{{ site.baseurl }}/assets/img/avatars/mara_128.jpg" class="avatar">
-    <h3>Mara</h3>
-    <p>Content &amp; Community</p>
 </div>
 
 <div class="profile">
@@ -52,14 +47,9 @@ Spielern.
 </div>
 
 <div class="profile">
-    <img src="{{ site.baseurl }}/assets/img/avatars/sergio_128.jpg" class="avatar">
-    <h3>Sergio</h3>
-    <p>App Marketing</p>
+    <img src="{{ site.baseurl }}/assets/img/avatars/mara_128.jpg" class="avatar">
+    <h3>Mara</h3>
+    <p>Content &amp; Community</p>
 </div>
 
-<div class="profile">
-    <img src="{{ site.baseurl }}/assets/img/avatars/dave_128.jpg" class="avatar">
-    <h3>Dave</h3>
-    <p>Marketing-Assistenz</p>
-</div>
 </div>
