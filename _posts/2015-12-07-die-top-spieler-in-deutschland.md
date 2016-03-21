@@ -50,4 +50,3 @@ hat ihrer Stadt die Ehre erwiesen und sie reich mit Loclets versehen. Egal ob UN
 
 ![](/assets/content/top_spieler_03.png)
 *CASSELANERIN35 gräbt verborgene Schätze in der drittgrößten Stadt Hessens aus.*
-

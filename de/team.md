@@ -23,12 +23,6 @@ Spielern.
 </div>
 
 <div class="profile">
-    <img src="{{ site.baseurl }}/assets/img/avatars/robert_128.jpg" class="avatar">
-    <h3>Robert</h3>
-    <p>Gründer &amp; Geschäftsführer</p>
-</div>
-
-<div class="profile">
     <img src="{{ site.baseurl }}/assets/img/avatars/markus_128.jpg" class="avatar">
     <h3>Markus</h3>
     <p>Backend</p>
@@ -47,9 +41,9 @@ Spielern.
 </div>
 
 <div class="profile">
-    <img src="{{ site.baseurl }}/assets/img/avatars/mara_128.jpg" class="avatar">
-    <h3>Mara</h3>
-    <p>Content &amp; Community</p>
+    <img src="{{ site.baseurl }}/assets/img/avatars/robert_128.jpg" class="avatar">
+    <h3>Robert</h3>
+    <p>Gründer &amp; Advisor</p>
 </div>
 
 </div>
