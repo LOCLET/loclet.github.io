@@ -74,5 +74,5 @@ Falls Euch also nächstes Wochenende langweilig ist... da geht noch was. Und nun
 und LOCLET-Spielen!
 
 PS: Und falls Ihr jetzt noch was zu Planespotting, Sternegucken oder Krötenschutz lesen wollt - 
-[bitteschön]
-(http://www.faz.net/aktuell/gesellschaft/menschen/was-menschen-mit-ungewoehnlichen-hobby-antreibt-13734896.html) :-).
+[bitteschön](http://www.faz.net/aktuell/gesellschaft/menschen/was-menschen-mit-ungewoehnlichen-hobby-antreibt-13734896.html)
+:-).
