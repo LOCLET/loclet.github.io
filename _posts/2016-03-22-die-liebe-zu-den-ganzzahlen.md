@@ -8,7 +8,7 @@ cover: /assets/content/confluence_00.jpg
 Was haben Planespotting, Sternegucken und Krötenschutz gemeinsam?
 
 Richtig - alle drei sind ausgefallene Hobbies, bei denen man sich draußen aufhält und in die Menschen unglaubliche 
-Mengen an Zeit und Energie investieren. Ein Hobbie, das wohl noch etwas ausgefallener ist, hat mittlerweile nicht nur
+Mengen an Zeit und Energie investieren. Ein Hobby, das wohl noch etwas ausgefallener ist, hat mittlerweile nicht nur
 eine große, internationale Community, sondern feierte auch vor wenigen Wochen sein 20jähriges Jubiläum. Die Rede ist 
 von **Confluence Hunting**.
 
@@ -37,12 +37,12 @@ _Confluences_ zu besuchen und zu dokumentieren.
 
 Die Liebe zu den ganzzahligen Längengrad-Breitengrad-Paaren verbreitete sich rasant. Mittlerweile haben fast 13.000 
 Personen über 7.000 Confluences in 189 Ländern von A wie Afghanistan bis Z wie Zimbabwe besucht und fotografiert. Auf 
-[confluence.org](http://confluence.org) könnte Ihr diese durchblättern und bestaunen.
+[confluence.org](http://confluence.org) könnt Ihr diese durchblättern und bestaunen.
 
 ### Virtuell trifft real
 Die allermeisten dieser Orte befinden sich irgendwo in der Natur, auf Feldern, in den Bergen oder der Steppe.
 Oft sind sie nicht leicht zugänglich und es ist auch nicht vorgesehen, dorthin zu wandern, zu fahren oder zu klettern.
-Doch genau das macht für die _Confluence Hunter_ den Reiz aus: Wie überlagen sich das vom Menschen erschaffene 
+Doch genau das macht für die _Confluence Hunter_ den Reiz aus: Wie überlagern sich das vom Menschen erschaffene 
 Koordinatensystem mit der echten Welt, die von dieser Einteilung nicht weiß?
 Für viele ist _Confluence Hunting_ eine Kunstform und einige Confluences wurden zuerst von Aktionskünstlern aufgesucht.
 
