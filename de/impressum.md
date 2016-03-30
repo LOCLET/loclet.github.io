@@ -8,16 +8,16 @@ permalink: /de/impressum/
 
 ### Verantwortlich für den Inhalt
 
-LOCLET GmbH & Co. KG  
+LOCLET GmbH  
 Ungererstr. 129  
 80805 München
 
 <i class="fa fa-envelope-o fa-fw"></i> <span class="codedirection">moc.telcol@ofni</span>  
 <i class="fa fa-phone fa-fw"></i> +49-89-41147782
 
-*Geschäftsführer*: Robert Hein und Klaas Klasing  
+*Geschäftsführer*: Klaas Klasing  
 *Registergericht*: Amtsgericht München  
-*Registernummer*: HRA 103166
+*Registernummer*: HRB 215611
 
 ### Nutzungsbedingungen
 
