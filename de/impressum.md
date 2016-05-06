@@ -62,7 +62,7 @@ erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden 
 gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen 
 entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-### Google Analytics
+### Datenschutzerklärung für die Nutzung von Google Analytics
 
 Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (“Google”). Google Analytics verwendet
 sog. “Cookies”, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der 
@@ -97,3 +97,15 @@ in der Datenschutzerklärung von facebook unter http://de-de.facebook.com/policy
 
 Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto zuordnen kann, loggen Sie
 sich bitte aus Ihrem Facebook-Benutzerkonto aus.
+
+### Datenschutzerklärung für die Nutzung von Twitter
+
+Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden angeboten durch die 
+Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Durch das Benutzen von Twitter und der 
+Funktion "Re-Tweet" werden die von Ihnen besuchten Webseiten mit Ihrem Twitter-Account verknüpft und anderen Nutzern 
+bekannt gegeben. Dabei werden auch Daten an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der 
+Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere 
+Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter http://twitter.com/privacy.
+
+Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter
+[http://twitter.com/account/settings](http://twitter.com/account/settings) ändern.
