@@ -27,11 +27,6 @@ Du kannst unsere Nutzungsbedingungen [hier]({{ site.baseurl }}/de/nutzungsbeding
 
 Du kannst unsere Datenschutzbestimmung [hier]({{ site.baseurl }}/de/datenschutz/) nachlesen.
 
-### Quellen
-
-Wir verwenden den Kartendienst von *Mapbox* [Terms and Service](https://www.mapbox.com/about/maps/) mit 
-Kartenmaterial von *OpenStreetMap* (© OpenStreetMap contributors).
-
 ### Haftung für Inhalte
 
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität 
@@ -93,7 +88,8 @@ besucht haben. Wenn Sie den Facebook “Like-Button” anklicken während Sie in
 können Sie die Inhalte unserer Seiten auf Ihrem Facebook-Profil verlinken. Dadurch kann Facebook den Besuch unserer 
 Seiten Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom 
 Inhalt der übermittelten Daten sowie deren Nutzung durch Facebook erhalten. Weitere Informationen hierzu finden Sie 
-in der Datenschutzerklärung von facebook unter http://de-de.facebook.com/policy.php
+in der Datenschutzerklärung von facebook unter
+[http://de-de.facebook.com/policy.php](http://de-de.facebook.com/policy.php).
 
 Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto zuordnen kann, loggen Sie
 sich bitte aus Ihrem Facebook-Benutzerkonto aus.
@@ -105,7 +101,8 @@ Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Durch
 Funktion "Re-Tweet" werden die von Ihnen besuchten Webseiten mit Ihrem Twitter-Account verknüpft und anderen Nutzern 
 bekannt gegeben. Dabei werden auch Daten an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der 
 Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere 
-Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter http://twitter.com/privacy.
+Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter 
+[http://twitter.com/privacy](http://twitter.com/privacy).
 
 Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter
 [http://twitter.com/account/settings](http://twitter.com/account/settings) ändern.
