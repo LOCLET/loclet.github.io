@@ -2,6 +2,15 @@
 
 $(document).ready(function () {
 
+    function getApiUrl(endpoint) {
+        var env = getUrlParameter('env');
+        var baseUrl = 'https://loclet-api-prod.herokuapp.com';
+        if (env === 'dev' || env === 'local') {
+            baseUrl = 'https://loclet-api-dev.herokuapp.com';
+        }
+        return baseUrl + endpoint;
+    }
+
     function getUrlParameter(sParam) {
         var sPageURL = decodeURIComponent(window.location.search.substring(1)),
             sURLVariables = sPageURL.split('&'),
@@ -29,11 +38,6 @@ $(document).ready(function () {
     }
 
     function loginOrSignupWithFacebook(fbResponse, callback) {
-        var env = getUrlParameter('env');
-        var url = 'https://loclet-api-prod.herokuapp.com/users';
-        if (env === 'dev' || env === 'local') {
-            url = 'https://loclet-api-dev.herokuapp.com/users';
-        }
         var fbToken;
         if (fbResponse && fbResponse.authResponse &&
             fbResponse.authResponse.accessToken) {
@@ -44,7 +48,7 @@ $(document).ready(function () {
         }
         $.ajax({
             type: 'POST',
-            url: url,
+            url: getApiUrl('/users'),
             data: {fbToken: fbToken},
             success: function (user, textStatus, jqXHR) {
                 if (textStatus === 'success') {
@@ -59,9 +63,7 @@ $(document).ready(function () {
     }
 
     function makeBaseAuth(user, pass) {
-        var tok = user + ':' + pass;
-        var hash = btoa(tok);
-        return 'Basic ' + hash;
+        return 'Basic ' + btoa(user + ':' + pass);
     }
 
     function loginWithCredentials(e) {
@@ -78,24 +80,13 @@ $(document).ready(function () {
             showMessage(false, 'Bitte gib ein Passwort ein', true);
             return false;
         }
-        var env = getUrlParameter('env');
-        var url = 'https://loclet-api-prod.herokuapp.com/authorizations';
-        if (env === 'dev' || env === 'local') {
-            url = 'https://loclet-api-dev.herokuapp.com/authorizations';
-        }
-        var auth = makeBaseAuth(username, password);
         $.ajax({
-            url: url,
-            //contentType: 'application/json',
+            url: getApiUrl('/authorizations'),
             method: 'POST',
             cache: false,
-            headers: {Authorization: auth},
+            headers: {Authorization: makeBaseAuth(username, password)},
             success: function (data) {
-                var token = data;
-                if (data.hasOwnProperty('token')) { //Support latest format of api result
-                    token = data.token;
-                }
-                getLoginUserFromToken(token, function (user) {
+                getLoginUserFromToken(data.token, function (user) {
                     if (!user) {
                         showMessage(false, 'Fehler bei der Anmeldung', true);
                         return;
@@ -116,13 +107,8 @@ $(document).ready(function () {
     }
 
     function getLoginUserFromToken(token, callback) {
-        var env = getUrlParameter('env');
-        var url = 'https://loclet-api-prod.herokuapp.com/users/me';
-        if (env === 'dev' || env === 'local') {
-            url = 'https://loclet-api-dev.herokuapp.com/users/me';
-        }
         $.ajax({
-            url: url,
+            url: getApiUrl('/users/me'),
             headers: {Authorization: 'Bearer ' + token},
             method: 'GET',
             cache: true,
@@ -143,11 +129,7 @@ $(document).ready(function () {
         if (user.name) cookieUser.name = user.name;
         if (user.email) cookieUser.email = user.email;
         if (user.token) cookieUser.token = user.token;
-        var env = getUrlParameter('env');
-        var domain = '.loclet.com';
-        if (env === 'local') {
-            domain = '';
-        }
+        var domain = getUrlParameter('env') === 'local' ? '' : '.loclet.com';
         Cookies.set('loginUser', cookieUser, {domain: domain});
     }
 
@@ -157,8 +139,7 @@ $(document).ready(function () {
         showMessage(true, 'Anmelden...', false);
         showMessage(false, '', false);
         FB.login(function (response) {
-            // handle the response
-            if (response && response.status && response.status === 'connected' &&
+            if (response && response.status === 'connected' &&
                 response.authResponse && response.authResponse.accessToken) {
                 loginOrSignupWithFacebook(response, function (res, error) {
                     if (!res) {
