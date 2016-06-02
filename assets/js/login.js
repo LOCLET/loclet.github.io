@@ -11,6 +11,11 @@ $(document).ready(function () {
         return baseUrl + endpoint;
     }
 
+    function postLoginRedirect() {
+        var target = getUrlParameter('sso') ? 'sso.html' : 'user.html';
+        window.location.replace(target + window.location.search);
+    }
+
     function getUrlParameter(sParam) {
         var sPageURL = decodeURIComponent(window.location.search.substring(1)),
             sURLVariables = sPageURL.split('&'),
@@ -53,7 +58,7 @@ $(document).ready(function () {
             success: function (user, textStatus, jqXHR) {
                 if (textStatus === 'success') {
                     storeUserToCookie(user);
-                    window.location.replace('user.html' + window.location.search);
+                    postLoginRedirect();
                 }
             },
             error: function (jqXHR, textStatus, errorThrown) {
@@ -92,7 +97,7 @@ $(document).ready(function () {
                         return;
                     }
                     storeUserToCookie(user);
-                    window.location.replace('user.html' + window.location.search);
+                    postLoginRedirect();
                 });
             }.bind(this),
             error: function (xhr, status, err) {

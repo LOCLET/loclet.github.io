@@ -1,7 +1,8 @@
 {
   "globals": {
     "Cookies": true,  // provided by js-cookie.js
-    "FB": true  // provided by Facebook SDK
+    "FB": true,  // provided by Facebook SDK
+    "LCLT": true  // provided by lclt-common.js
   },
   "env": {
     "browser": true,
