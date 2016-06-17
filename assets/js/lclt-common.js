@@ -12,14 +12,29 @@ window.LCLT = new function LCLT() {
 
     var self = this;
 
-    function getApiUrl(endpoint) {
+    /**
+     * Retrieves the API URL of a specific endpoint (for the current
+     * environment, as specified by the optional query parameter `env` in the
+     * current page context).
+     *
+     * @param {string} endpoint desired endpoint (**must** include a leading
+     *        slash)
+     * @return {string} the full endpoint URL
+     */
+    this.getApiUrl = function getApiUrl(endpoint) {
         var env = self.getQueryArg('env');
         var baseUrl = 'https://loclet-api-prod.herokuapp.com';
-        if (env === 'dev' || env === 'local') {
-            baseUrl = 'https://loclet-api-dev.herokuapp.com';
+        switch (env) {
+            case 'beta':
+                baseUrl = 'https://loclet-api-beta.herokuapp.com';
+                break;
+            case 'dev':
+            case 'local':
+                baseUrl = 'https://loclet-api-dev.herokuapp.com';
+                break;
         }
         return baseUrl + endpoint;
-    }
+    };
 
 
     /**
@@ -72,16 +87,16 @@ window.LCLT = new function LCLT() {
      * @param {string} [options.method] HTTP method to use (`GET` by default)
      * @param {string} options.endpoint API endpoint to invoke; must start with
      *        a slash
-     * @param {function} Node-style error-first callback; in case of an error,
-     *        the returned error object *may* contain an additional message from
-     *        the server in a `serverMsg` property
+     * @param {function} callback Node-style error-first callback; in case of an
+     *        error, the returned error object *may* contain an additional
+     *        message from the server in a `serverMsg` property
      */
     this.apiCall = function apiCall(options, callback) {
         var method = options.method || 'GET';
         var token = this.getUserToken();
         return $.ajax({
             type: method,
-            url: getApiUrl(options.endpoint),
+            url: this.getApiUrl(options.endpoint),
             headers: {Authorization: 'Bearer ' + token},
             success: function onSuccess(res, textStatus, jqXHR) {
                 return callback(null, res);

@@ -32,15 +32,10 @@
             showMessage("Die eingegebene Email-Adresse hat ein ungültiges Format.", true);
             return false;
         }
-        var emailEncode = encodeURIComponent(email);
-        var env = getUrlParameter('env');
-        var url = "https://loclet-api-prod.herokuapp.com/users/" + emailEncode;
-        if (env && env == 'dev')
-            url = "https://loclet-api-dev.herokuapp.com/users/" + emailEncode;
         var data = JSON.stringify({password: null});
         $.ajax({
             method: 'PUT',
-            url: url,
+            url: LCLT.getApiUrl('/users/' + encodeURIComponent(email)),
             data: data,
             contentType: 'application/json',
             success: function (data, textStatus, jqXHR) {
@@ -97,12 +92,6 @@
 
         var userId = decoded.userId;
 
-        var env = getUrlParameter('env');
-        var url = "https://loclet-api-prod.herokuapp.com/users/" + userId
-        if (env && env == 'dev') {
-            url = "https://loclet-api-dev.herokuapp.com/users/" + userId;
-        }
-
         //Now as we got the userId, let's call the api to reset the password
         var putData = {
             pwResetToken: token,
@@ -112,7 +101,7 @@
 
         $.ajax({
             type: "PUT",
-            url: url,
+            url: LCLT.getApiUrl('/users/' + userId),
             data: putData,
             contentType: 'application/json',
             success: function (data, textStatus, jqXHR) {
