@@ -2,15 +2,6 @@
 
 $(document).ready(function () {
 
-    function getApiUrl(endpoint) {
-        var env = getUrlParameter('env');
-        var baseUrl = 'https://loclet-api-prod.herokuapp.com';
-        if (env === 'dev' || env === 'local') {
-            baseUrl = 'https://loclet-api-dev.herokuapp.com';
-        }
-        return baseUrl + endpoint;
-    }
-
     function postLoginRedirect() {
         var target = getUrlParameter('sso') ? 'sso.html' : 'user.html';
         window.location.replace(target + window.location.search);
@@ -53,7 +44,7 @@ $(document).ready(function () {
         }
         $.ajax({
             type: 'POST',
-            url: getApiUrl('/users'),
+            url: LCLT.getApiUrl('/users'),
             data: {fbToken: fbToken},
             success: function (user, textStatus, jqXHR) {
                 if (textStatus === 'success') {
@@ -86,7 +77,7 @@ $(document).ready(function () {
             return false;
         }
         $.ajax({
-            url: getApiUrl('/authorizations'),
+            url: LCLT.getApiUrl('/authorizations'),
             method: 'POST',
             cache: false,
             headers: {Authorization: makeBaseAuth(username, password)},
@@ -113,7 +104,7 @@ $(document).ready(function () {
 
     function getLoginUserFromToken(token, callback) {
         $.ajax({
-            url: getApiUrl('/users/me'),
+            url: LCLT.getApiUrl('/users/me'),
             headers: {Authorization: 'Bearer ' + token},
             method: 'GET',
             cache: true,

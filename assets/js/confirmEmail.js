@@ -52,15 +52,9 @@
         };
         putData = JSON.stringify(putData);
 
-        var env = getUrlParameter('env');
-        var url = "https://loclet-api-prod.herokuapp.com/users/" + userId;
-        if (env && env == 'dev') {
-            url = "https://loclet-api-dev.herokuapp.com/users/" + userId;
-        }
-
         $.ajax({
             method: 'PUT',
-            url: url,
+            url: LCLT.getApiUrl('/users/' + userId),
             data: putData,
             contentType: 'application/json',
             success: function (data, textStatus, jqXHR) {
