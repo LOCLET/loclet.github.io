@@ -60,5 +60,5 @@ Ihr im Norden des _Landkreises München_ (nicht der _Stadt München_), und zwar 
 *Region öffnen, Loclet spielen - 5€ werden gespendet.*
 
 Wir danken unserem Partner Pixida für die Bereitschaft, die Spende auf diese Art und Weise spielerisch
-noch weiter zu erhöhen und natürlich Philipp, dem Initiator der Aktion, sowie dem Bellevue di Monaco für seine tolle
-Arbeit. Auf geht's - spielen wir uns bis zur Maxima
+noch weiter zu erhöhen und natürlich Philipp, dem Initiator der Aktion, sowie dem Bellevue di Monaco für die tolle
+Arbeit. Auf geht's - spielen wir die Spende nach oben!
