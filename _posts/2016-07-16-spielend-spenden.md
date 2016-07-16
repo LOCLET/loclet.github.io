@@ -33,7 +33,7 @@ Nach über einem Jahr hat Philipp eine beachtliche Tauschkette hingelegt. Vom Do
 Gipsabdruck-Set, einen Haarschnitt-Gutschein, einen Design-Rucksack, einen gebrauchten Smart(!) und einen Gutschein für
 einen Imagefilm schließlich zu einem Abend in einer Event-Location (mit Catering) im Wert von über 10.000€. Dieser
 Abend wird [von der Münchner Firma Pixida ausgelöst](https://www.pixida.de/de/news/381-dasdosentelefon);
-Das Geld geht als Spende an das [Bellevue di Monaco](http://bellevuedimonaco.de/), eine vielseitige und
+das geht als Spende an das [Bellevue di Monaco](http://bellevuedimonaco.de/), eine vielseitige und
 beachtenswerte Einrichtung für Flüchtlings- und Jugendhilfe im Herzen Münchens.
 
 ![](/assets/content/dosentelefon_03.jpg)
