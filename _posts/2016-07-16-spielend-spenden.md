@@ -37,7 +37,7 @@ das geht als Spende an das [Bellevue di Monaco](http://bellevuedimonaco.de/), ei
 beachtenswerte Einrichtung für Flüchtlings- und Jugendhilfe im Herzen Münchens.
 
 ![](/assets/content/dosentelefon_03.jpg)
-*Das Bellevue die Monaco im Herzen Münchens. (Quelle: [Bellevue Di Monaco](http://bellevuedimonaco.de/))*
+*Das Bellevue di Monaco im Herzen Münchens. (Quelle: [Bellevue Di Monaco](http://bellevuedimonaco.de/))*
 
 ### LOCLET spielen und die Spende aufstocken
 
