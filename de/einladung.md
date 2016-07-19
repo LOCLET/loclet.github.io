@@ -30,3 +30,4 @@ sollte, kommst Du hier direkt zum Download der App:
 Anschließend kannst Du Deinen Freund in der App herausfordern. _Der schnellste Weg führt aber in jedem Fall über den 
 Link_. Viel Spaß beim Duellieren!
 
+Bei anderen Fragen schaue doch bitte kurz bei unserem [Support]({{ site.baseurl }}/de/support/) vorbei.
