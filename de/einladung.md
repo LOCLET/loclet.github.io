@@ -27,6 +27,6 @@ sollte, kommst Du hier direkt zum Download der App:
         <img class="download-badge" width="171" height="56" src="/assets/img/b_download_googleplay.png"></a>
 </p>
 
-Anschließend kannst Du Deinen Freund in der App herausfordern. Der schnellste Weg führt aber in jedem Fall über den 
-Link. Viel Spaß beim Duellieren!
+Anschließend kannst Du Deinen Freund in der App herausfordern. _Der schnellste Weg führt aber in jedem Fall über den 
+Link_. Viel Spaß beim Duellieren!
 
