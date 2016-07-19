@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Das LOCLET-Team
+title: Jobs
 permalink: /de/jobs/
 ---
 
@@ -13,7 +13,6 @@ Wir sind ein kleines, schlagkräftiges Team von erfahrenen Gründern, Software-E
 Entscheidungen schnell und gemeinsam. Wir lernen von unseren Nutzern und iterieren zügig. Wir verbessern uns messbar 
 und kontinuierlich. Wir haben große Herausforderungen und geben Dir viel Verantwortung.
 
-  
 ![]({{ site.baseurl }}/assets/img/loclet_team_collage.jpg)
 
 Um bei uns zu arbeiten, musst Du nicht alles können. Aber Du brauchst die Leidenschaft, alles zu lernen, um mit uns 
