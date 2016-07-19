@@ -8,7 +8,7 @@ permalink: /de/einladung/
 
 Du siehst diese Seite, weil Dich jemand zum Duell herausgefordert hat und Du dem Einladungslink gefolgt bist.
 **Öffne den Link auf Deinem iPhone oder Android-Smartphone**, dann kann es losgehen.
-  
+
 ![]({{ site.baseurl }}/assets/img/invite_state_emblems_collage.png)
 
 Der Link führt Dich auf Deinem Smartphone automatisch zur Installation der LOCLET-App (falls noch nicht installiert) 

@@ -16,7 +16,7 @@ die des Kanadiers [Kyle MacDonald](http://www.stern.de/digital/online/kanada-tau
 der sich 2006 erfolgreich von einer roten Büroklammer bis zu einem eigenen Haus hochtauschte.
 
 ![](/assets/content/dosentelefon_01.jpg)
-*Das ertauschte Haus von KyleMacDonald (Quelle: [OisinisiO / Wikipedia](https://en.wikipedia.org/wiki/One_red_paperclip#/media/File:Red-paperclip-news-1.jpg))*
+*Das ertauschte Haus von Kyle MacDonald (Quelle: [OisinisiO / Wikipedia](https://en.wikipedia.org/wiki/One_red_paperclip#/media/File:Red-paperclip-news-1.jpg))*
 
 Neun Jahre später hatte sich am Prinzip des Hochtauschens nichts geändert. Es war Winter in München, hundertausende
 Flüchtlinge strömten nach Europa und Philipp dachte sich, dass das ausrangierte Dosentelefon doch für einen besseren
@@ -33,7 +33,7 @@ Nach über einem Jahr hat Philipp eine beachtliche Tauschkette hingelegt. Vom Do
 Gipsabdruck-Set, einen Haarschnitt-Gutschein, einen Design-Rucksack, einen gebrauchten Smart(!) und einen Gutschein für
 einen Imagefilm schließlich zu einem Abend in einer Event-Location (mit Catering) im Wert von über 10.000€. Dieser
 Abend wird [von der Münchner Firma Pixida ausgelöst](https://www.pixida.de/de/news/381-dasdosentelefon);
-das geht als Spende an das [Bellevue di Monaco](http://bellevuedimonaco.de/), eine vielseitige und
+das Geld geht als Spende an das [Bellevue di Monaco](http://bellevuedimonaco.de/), eine vielseitige und
 beachtenswerte Einrichtung für Flüchtlings- und Jugendhilfe im Herzen Münchens.
 
 ![](/assets/content/dosentelefon_03.jpg)
