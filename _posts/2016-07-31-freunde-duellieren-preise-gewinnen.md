@@ -58,6 +58,6 @@ verlosen wir:
 
 Wenn Ihr Euch mit bereits angemeldeten LOCLET-Spielern duelliert, macht das natürlich auch Spaß, für das Gewinnspiel 
 zählen aber nur _Anmeldungen von Freunden, die über Eure Einladung zum Duell neu zu LOCLET gekommen sind_. Hier 
-findet ihr die [offiziellen Teilnahmebedingungen](/de/teilnahmebedingungen_gewinnspiel/).
+findet ihr die [offiziellen Teilnahmebedingungen](/de/teilnahmebedingungen-gewinnspiel/).
 
 Viel Spaß beim Duellieren und Einladen!
