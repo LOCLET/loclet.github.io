@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teilnahmebedingungen LOCLET Gewinnspiel
-permalink: /de/teilnahmebedingungen_gewinnspiel/
+permalink: /de/teilnahmebedingungen-gewinnspiel/
 ---
 
 ## Teilnahmebedingungen LOCLET Gewinnspiel (Juli/August 2016)
