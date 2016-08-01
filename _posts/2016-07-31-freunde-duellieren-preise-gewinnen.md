@@ -6,7 +6,7 @@ cover: /assets/content/duelle_00.jpg
 ---
 
 Endlich sind sie live: Bundesland-Duelle! Und unter allen Spielern, die erfolgreich Freunde einladen, verlosen wir 
-tolle Preise, u.a. _das brandneue Kindle_.
+tolle Preise, u.a. _den brandneuen Kindle_.
 
 ### En garde!
 
@@ -51,8 +51,8 @@ Zur Feier des Starts der LOCLET-Duelle gibt es ein kleines Gewinnspiel: Unter al
 August 2016 bis Mitternacht mindestens ein Duell gegen einen _neu eingeladenen Freund_ gespielt haben, 
 verlosen wir:
 
-* 1 brandneues [Amazon Kindle](https://www.amazon.de/Kindle-eReader-Touchscreen-Spiegeleffekte-Schwarz/dp/B0186FESVC)!
-* 10 coole LOCLET Powerbanks (1000 mA) zum Aufladen Eures Smartphones auf Reisen
+* 1 brandneuen [Amazon Kindle](https://www.amazon.de/Kindle-eReader-Touchscreen-Spiegeleffekte-Schwarz/dp/B0186FESVC)!
+* 10 coole LOCLET Powerbanks (1000 mAh) zum Aufladen Eures Smartphones auf Reisen
 
 ![](/assets/content/duelle_04.jpg)
 
