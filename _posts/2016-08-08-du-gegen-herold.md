@@ -7,7 +7,7 @@ cover: /assets/content/herold_00.jpg
 
 _Münchner aufgepasst_: Seit heute steigt eine einzigartige Aktion von 95.5 Charivari Münchens Hitradio und LOCLET.
 
-In der schönsten Stadt der Welt gibt es wohl kaum jemanden, der sie nicht kennt: Die HEROLD-Show, mit Moderator Jan 
+In der schönsten Stadt der Welt gibt es wohl kaum jemanden, der sie nicht kennt: DIE HEROLD SHOW, mit Moderator Jan 
 Herold und Sidekick Lemonia Leyendecker, bringt werktags von 5-9 Uhr München aus dem Bett und gut gelaunt in den Tag.
 Im lockeren Stil besprechen beide die Themen des Tages und vor allem die Themen rund um München. Ob sich HEROLD 
 auch außerhalb von Klatsch und Tratsch in Bayerns Landeshauptstadt auskennt, können die Hörer nun in einem 
