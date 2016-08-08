@@ -35,6 +35,6 @@ Das Beste zum Schluss: Natürlich müsst Ihr nicht im Münchner Stadtgebiet wohn
 einem Klick auf den Link könnt Ihr auch aus dem Schwarzwald, der norddeutschen Tiefebene, dem Ruhrpott oder auf Rügen
 Euer München-Wissen unter Beweis stellen. Wir wünschen viel Spaß. Möge der Bessere gewinnen!
 
-> Hier könnt ihr [direkt gegen HEROLD spielen](http://loclet.link/ulYn/pboLz0RHAv)
+> Hier könnt Ihr [direkt gegen HEROLD spielen](http://loclet.link/ulYn/pboLz0RHAv)
 
 > Hier findet Ihr [alle Infos zum Hörer-Duell bei Charivari](https://www.charivari.de/radio/aktionen/loclet_354340.html)
