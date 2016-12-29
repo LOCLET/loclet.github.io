@@ -15,7 +15,7 @@ Ungererstr. 129
 <i class="fa fa-envelope-o fa-fw"></i> <span class="codedirection">moc.telcol@ofni</span>  
 <i class="fa fa-phone fa-fw"></i> +49-89-41147782
 
-*Liquidator*: Klaas Klasing  
+*Liquidator*: Klaas Klasing
 *Registergericht*: Amtsgericht München  
 *Registernummer*: HRB 215611
 
