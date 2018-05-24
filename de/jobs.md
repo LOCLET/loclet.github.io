@@ -22,10 +22,5 @@ Erfahrung mitbringst, bieten wir Dir das ideale Umfeld.
 <br />
 
 ### Offene Stellen in München, Deutschland:
-**Entwicklung**
 
-* [Web-App Entwicklung (m/w) - Praktikum (3-6 Monate)]({{ site.baseurl }}/assets/content/LOCLET_WebApp_Praktikum_Muenchen_de.pdf)
-
-**Marketing**
-
-* [Marketing (m/w) - Praktikum (1-3 Monate)]({{ site.baseurl }}/assets/content/LOCLET_Marketing_Praktikum_Muenchen_de.pdf)
+Derzeit gibt es keine offenen Stellen.
