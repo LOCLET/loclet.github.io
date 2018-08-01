@@ -20,8 +20,8 @@ Lohmühlenstraße 65<br>
 
 <br>
 _Geschäftsführer:_ Dr. Klaas Klasing<br>
-_Registernummer:_ HRB 230474<br>
-_Registergericht:_ Amtsgericht München<br>
+_Registernummer:_ HRB 198451<br>
+_Registergericht:_ Amtsgericht Berlin (Charlottenburg)<br>
 _Umsatzsteuer-ID:_ DE310271789
 
 ### Haftung für Inhalte
